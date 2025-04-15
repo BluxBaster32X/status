@@ -1,0 +1,13 @@
+{
+  "avatar_url": "https://imgur.com/a/f7jDXs2",  // Optional avatar
+  "embeds": [
+    {
+      "title": "Uber Eats is Now Open ✅",
+      "description": "We are now accepting orders! Click the order button in <#order-here> to create a ticket.",
+      "color": 5763719,
+      "footer": {
+        "text": "Status updated"
+      }
+    }
+  ]
+}
